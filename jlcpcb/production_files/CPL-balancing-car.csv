@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,194.58,-102.87,0.0,top
+C2,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,206.8068,-106.9848,-90.0,top
+C3,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,194.0052,-98.5012,-90.0,top
+J1,Conn_01x05_Socket,PinSocket_1x05_P2.54mm_Vertical,211.099,-87.914,0.0,top
+J2,Conn_01x05_Socket,PinSocket_1x05_P2.54mm_Vertical,189.636,-87.914,0.0,top
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,193.929,-90.805,-90.0,top
+R10,43k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,208.9404,-110.7948,90.0,top
+R11,47k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,208.8896,-107.0008,90.0,top
+R12,47k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,203.851,-108.077,0.0,top
+R13,43k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,200.803,-109.093,90.0,top
+R14,100k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,206.8068,-103.124,-90.0,top
+R2,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,193.929,-94.742,-90.0,top
+R3,100k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,194.58,-105.029,0.0,top
+R4,82k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,199.39,-100.584,180.0,top
+R5,20k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,197.358,-98.552,180.0,top
+R6,24k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,206.4672,-115.824,180.0,top
+R7,20k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,205.5368,-118.872,-90.0,top
+R8,20k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,195.7832,-113.411,-90.0,top
+R9,24k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,200.6092,-112.522,0.0,top
+U1,MCP602,SOIC-8_3.9x4.9mm_P1.27mm,200.549,-104.267,180.0,top
+U2,MCP602,SOIC-8_3.9x4.9mm_P1.27mm,200.6092,-116.332,180.0,top
+U3,MCP602,SOIC-8_3.9x4.9mm_P1.27mm,200.533,-93.218,180.0,top
+U4,L9110h,HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm,200.3468,-85.6742,0.0,top
+U5,ADXL335,Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.35x2.35mm,200.701,-123.2845,0.0,top
